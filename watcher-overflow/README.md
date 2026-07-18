@@ -1,4 +1,4 @@
-# turbo-watcher-overflow
+# watcher-overflow
 
 Minimal reproduction: **`turbo watch` re-runs every `dev` task in the graph when a dev server writes a large burst of files into a *gitignored* directory.** No source file changes, yet the whole dependency graph rebuilds.
 
