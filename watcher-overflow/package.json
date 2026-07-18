@@ -6,6 +6,6 @@
     "dev": "turbo watch dev --continue"
   },
   "devDependencies": {
-    "turbo": "2.10.5"
+    "turbo": "2.10.6-canary.4"
   }
 }
