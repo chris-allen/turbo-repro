@@ -1,0 +1,10 @@
+{
+  "name": "package-a",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "node build.mjs"
+  }
+}

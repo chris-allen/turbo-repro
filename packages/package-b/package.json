@@ -1,0 +1,13 @@
+{
+  "name": "package-b",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "main": "dist/index.js",
+  "dependencies": {
+    "package-a": "workspace:*"
+  },
+  "scripts": {
+    "dev": "node build.mjs"
+  }
+}

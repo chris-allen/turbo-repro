@@ -1,0 +1,11 @@
+{
+  "name": "turbo-watcher-overflow",
+  "private": true,
+  "packageManager": "pnpm@10.15.1",
+  "scripts": {
+    "dev": "turbo watch dev --continue"
+  },
+  "devDependencies": {
+    "turbo": "2.10.5"
+  }
+}
